@@ -36,9 +36,9 @@
 
 ## Technologies Used 🖥️
 
-- [Next.js](https://nextjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [React](https://reactjs.org/)
+- [Java Script](https://javascript.org/)
+- [Html](https://html.com/)
+- [CSS](https://html.com/)
 - [Email JS](https://www.emailjs.com/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [Iconify](https://iconify.design/)
