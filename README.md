@@ -3,7 +3,7 @@
 
 ## A clean, modern and responsive dev portfolio using HHML CSS & Java Script
 
-## BUILT BY MR JUICE  ![b706e634-a4d6-45b2-80ef-21f125ab8863](https://github.com/mrjuice01/web2/assets/100421286/305c2c8b-8b9b-494c-a968-413af50100a4)
+## BUILT BY MR JUICE ![maxresdefault](https://github.com/mrjuice01/web2/assets/100421286/5d88c42a-87be-4335-b669-eca6a61edfbb)
 
 
 
